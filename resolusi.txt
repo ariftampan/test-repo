@@ -2,3 +2,5 @@ RESOLUSI
 -kosisten untuk membuat konten 2 x seminggu
 -membuat platform untuk pengelolaan video
 -membuat forum diskusi
+-membuat cafe
+-membuat website
